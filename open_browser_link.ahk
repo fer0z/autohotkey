@@ -5,5 +5,5 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 F3::
 Run Notepad
-Run https://www.google.com
+Run https://www.facebook.com
 Return
