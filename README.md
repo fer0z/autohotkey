@@ -1,4 +1,4 @@
-# autohotkey
+# AutoHotKey
 <b>AutoHotKey Scripts</b>
 
 Discord_Macro - is a retard script created by <i>Haykler</i> </br>
