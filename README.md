@@ -1,4 +1,8 @@
 # autohotkey
 AutoHotKey Scripts
 
-*This repository has several codes for you to use, choose one and enjoy.*
+Discord_Macro - is a retard script created by Haykler
+w.ahk - W loop/press 1 to enable
+Open_link_browser - is a simple script to open a website
+
+
